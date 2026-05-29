@@ -1,4 +1,4 @@
-# Unity-2D--Shooter-Game
+# Unity-2D-Shooter-Game
 **Overview**
 
 Developed a 2D platform shooter game using Unity and C#. The project focuses on player movement, enemy interactions, shooting mechanics, and game state management.
